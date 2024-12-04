@@ -1,2 +1,2 @@
-# DNN_truck_trailer
+# DNN truck trailer
 DNN trained for truck trailer system
